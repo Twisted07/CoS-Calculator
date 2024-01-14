@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%; /* making 1rem = 10px */
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    outline: transparent;
+    background-color: transparent;
+}
+
+body {
+    padding: 5rem 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+main {
+    display: flex;
+    align-items: flex-start;
+}
+
+.footer {
+    
+}
+
+.nav {
+    display: inline-block;
+    border: 2px solid black;
+    padding: .5rem 1rem;
+    margin-right: 5rem;
+}
+
+.nav__list {
+
+}
+
+.nav__btn {
+    display: block;
+}
+
+.nav__btn:not(:last-of-type) {
+    margin-bottom: 2rem;
+}
+
+.nav__item {
+
+}
+
+
+/* * Main section  */
+.main-section {
+    display: inline-block;
+}
+
+.rate-section {
+    display: none
+}
+
+.product-price-section {
+    display: none;
+}
+
+/* * Section Input */
+.input-section {
+    display: block;
+    margin-bottom: 3rem;
+}
+
+.input-container {
+
+}
+
+.label {
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.input-container:not(:last-of-type) {
+    margin-bottom: 2rem;
+}
+
+
+
+.output-section {
+    display: block;
+}
+
+.output__text {
+    border: 2px solid black;
+    height: 5rem;
+    width: 100%;
+}

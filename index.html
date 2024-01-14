@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Cost Of Service</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__item"><button class="nav__btn cos">Cost Of Service</button></li>
+                <li class="nav__item"><button class="nav__btn hourly-rate">Hourly Rate</button></li>
+                <li class="nav__item"><button class="nav__btn product-price">Product Price</button></li>
+                <li class="nav__item"><button class="nav__btn profit">Profit</button></li>
+            </ul>
+        </nav>
+    
+        <div class="main-section">
+            <section class="cos-section">
+                <div class="input-container">
+                    <label for="rate" class="label">What is your hourly rate?</label>
+                    <input type="number" class="input input__rate" id="rate" min="0">
+                </div>
+                
+                <div class="input-container">
+                    <label for="time" class="label">How long did/will the service take? (in hours)</label>
+                    <input type="number" class="input input__time" id="time" min="0">
+                </div>
+    
+                <div class="input-container">
+                    <label for="materials" class="label">What is the total cost of materials?</label>
+                    <input type="number" class="input input__materials" id="materials" min="0">
+                </div>
+    
+                <div class="input-container">
+                    <label for="equipments" class="label">What is the average cost of the equipments used?</label>
+                    <input type="number" class="input input__equipments" id="equipments" min="0">
+                </div>
+    
+                <div class="input-container">
+                    <label for="life-span" class="label">What is the average life span of the materials? (in months)</label>
+                    <input type="number" class="input input__life-span" id="life-span" min="0">
+                </div>
+                
+                <button type="button" class="btn-cal__cos">Calculate</button>
+            </section>
+
+            <section class="rate-section">
+                <div class="input-container">
+                    <label for="labor-cost" class="label">How much is your labor cost/basic salary?</label>
+                    <input type="number" class="input input__labor-cost" id="labor-cost" min="0">
+                </div>
+
+                <div class="input-container">
+                    <label for="overhead-cost" class="label">How much is your overhead cost per year? (accommodation, utility bills, communication bills, ads, etc.)</label>
+                    <input type="number" class="input input__overhead-cost" id="overhead-cost" min="0">
+                </div>
+
+                <div class="input-container">
+                    <label for="gross-profit" class="label">How much profit do you intend to make (personal profit and business profit)? <i>(in percentage)</i></label>
+                    <input type="number" class="input input__gross-profit" id="gross-profit" min="0">
+                </div>
+
+                <div class="input-container">
+                    <label for="billable-hours" class="label">How many billable hours do you work in a year? (time actively spent working, yearly)</label>
+                    <input type="number" class="input input__billable-hours" id="billable-hours" min="0">
+                </div>
+
+                <button type="button" class="btn-cal__hourly-rate">Calculate</button>
+            </section>
+
+
+            <section class="product-price-section">
+                <div class="input-container">
+                    <label for="total-materials" class="label">Total Cost of Materials Used in Production</label>
+                    <input type="number" id="total-materials" class="input input__total-materials" min="0">
+                </div>
+
+                <div class="input-container">
+                    <label for="total-products" class="label">Total Number of Products Gotten From Production</label>
+                    <input type="number" id="total-products" class="input input__total-products" min="0">
+                </div>
+
+                <div class="input-container">
+                    <label for="total-labor-cost" class="label">Total Labor Cost</label>
+                    <input type="number" id="total-labor-cost" class="input input__total-labor" min="0">
+                </div>
+
+                <!-- <div class="input-container">
+                    <label for="production-hours" class="label">How Many Hours Did Production Take</label>
+                    <input type="number" id="production-hours" class="input input__production-hours" min="0">
+                </div> -->
+
+                <div class="input-container">
+                    <label for="product-overhead" class="label">Total Overhead Cost For Production</label>
+                    <input type="number" id="product-overhead" class="input input__product-overhead" min="0">
+                </div>
+
+                <div class="input-container">
+                    <label for="product-profit" class="label">How much percentage profit would you like to make?</label>
+                    <input type="number" id="product-profit" class="input input__product-profit" min="0">
+                </div>
+
+
+                <button type="button" class="btn-cal__product-price">Calculate</button>
+
+            </section>
+
+            <section class="profit-section">
+                Profit
+            </section>
+    
+            <section class="output-section">
+                <h3 class="output__heading">Result</h3>
+                <div class="output__text"></div>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">Twisted</footer>
+    <script src="script.js"></script>
+</body>
+</html>

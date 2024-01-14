@@ -1,0 +1,76 @@
+
+# Factors to consider when pricing your products or services
+
+* Cost of Production: all expenses associated with producing or
+	delivering your goods or services. This includes cost of materials
+	labour, manufacturing cost and overhead costs.
+
+* Competitor prices: the quality of competitors, features and unique selling
+	propositions should be factored in when conducting competitor 
+	price research.
+
+* Value proposition: If your products or services offer a distinctive benefit or solve a specific problem, you can potentially charge a premium price. For instance, if you offer a product that is more durable than similar items in the market, you can justify a higher price point. Similarly, if your service helps customers save time or money, you may be able to set a higher price.
+
+* Marketing Strategy: Your marketing strategy can have a significant impact on your pricing strategy. For instance, if you frequently offer discounts or sales, you may need to adjust your base price to accommodate these promotions.
+
+* Profit Margins
+
+# Hourly rate
+
+* (labor cost + overhead cost + profit) / no of hours worked
+
+** Labor cost =  All the expenses made to complete the service
+** Overhead cost = Personal costs like accommodation, utilities,
+			communication expenses, ads and marketing costs
+** Gross Percentage Profit = Total amount expected to received for personal consumption (i.e including money for service growth)
+** Hours worked = Number of active hours spent on providing the service
+
+# Gross salary
+
+This should be Basic salary + overhead cost + Percentage profit
+
+
+
+# Product price
+
+Product price is calculated by getting the total cost of production by adding cost of raw materials + direct labor + allocated manufacturing overhead.
+
+The percentage gross profit - your take home profit and your business's profit - is then multiplied by the cost, then te new value is then added to the new cost
+
+
+
+
+Expenses fall into three categories – direct material costs, direct labor costs and manufacturing overhead costs.
+
+** Direct material costs include the cost of the raw components required for production, and devices to turn them into finished goods.
+
+** Direct labor costs include wages and benefits for the employees who produce a product or deliver a service. There are many costs associated with labor, such as wages or salaries, benefits like insurance and retirement plans, as well as payroll taxes. You can calculate the direct labor cost per unit production in the following three steps:
+
+●      First, calculate the direct labor hourly pay rate by dividing the value of salary/wages, benefits and payroll taxes by the number of hours worked in the specific payroll period.
+
+●      Next, calculate the direct labor hours required to produce one unit of a product by dividing the total number of finished products over a year by the number of direct labor hours.
+
+●      Then, calculate the labor cost per unit by multiplying the direct labor hourly rate by the time required to make one unit of a product.
+
+Overhead expenditures are not directly attributable to the production of your products, and can either be fixed or variable. Fixed overhead costs do not fluctuate with sales volume and need to be paid monthly, such as customer care services, rent for warehouse and office space, interest payments, equipment and software used to run your business, and so on. Variable overhead expenses vary month to month regardless of the volume of products sold, such as travel costs, furniture, storage, marketing, utility bills, etc.
+
+Indirect labor cost is the cost of labor that is not directly related to the goods produced or the services rendered. It represents the overhead expenses to the company needed to support the day-to-day running of the business. It refers to the wages paid to employees whose duties enable others to produce goods and perform services efficiently, such as staff members who maintain factory equipment, provide security for the factory and warehouse, manage the office, etc.
+
+
+
+
+
+# PROFIT 
+
+Service based or Product based?
+
+* Service based:
+	gross profit = cost of service - overhead bill
+	net profit = cost of service - overhead bill - service growth cost (same formula as business profit);
+
+* Product based:
+	gross profit = selling price per product - overhead bill per production/number of products - labor cost for production/number of products - cost of materials for production / number of products
+
+	net profit = selling price per product - business profit - overhead bill per production/number of products - labor cost for production/number of products - cost of materials for production / number of products
+
+	business profit = percentage of profit from selling price that has to go back to the business = selling price * percentage business profit.
